@@ -1,0 +1,7 @@
+import math
+
+x = 4
+y = -2
+print(abs(y))
+
+print( math.sqrt(x))
